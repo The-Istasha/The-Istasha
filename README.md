@@ -17,11 +17,6 @@ Systems engineer based in San Francisco. I work on memory safety primitives, sec
 
 Started in ML and data science, drifted toward systems programming when I realized the interesting bugs live at the boundary between safe abstractions and raw memory. These days I spend most of my time reviewing community contributions, writing property-based tests for edge cases, and auditing upstream dependency changes for behavioral shifts that could compromise security guarantees downstream users rely on.
 
-### Elsewhere
-
-
-- 67969809+The-Istasha@users.noreply.github.com
-
 ---
 
 > I maintain things so you don't have to think about them.
